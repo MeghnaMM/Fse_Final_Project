@@ -1,3 +1,5 @@
+C:\Windows\system32>"C:\Users\Administrator\Desktop\New folder (2)\Fse_Final_Project\Server\ProjectManager\packages\NBench.Runner.1.2.2\tools\net452\NBench.Runner" "C:\Users\Administrator\Desktop\New folder (2)\Fse_Final_Project\Server\ProjectManager\PerformanceTests\bin\Debug\PerformanceTests.dll"
+Executing Benchmarks in C:\Users\Administrator\Desktop\New folder (2)\Fse_Final_Project\Server\ProjectManager\PerformanceTests\bin\Debug\PerformanceTests.dll
 ------------ STARTING PerformanceTests.TaskPerfTests+PerformanceTests ----------
 --------------- BEGIN RUN ---------------
 Elapsed: 00:00:00.9455977

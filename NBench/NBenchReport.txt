@@ -1,0 +1,15 @@
+------------ STARTING PerformanceTests.TaskPerfTests+PerformanceTests ----------
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9455977
+Elapsed Time - ms: 945.00 ,ms: /s 999.37 , ns / ms: 1,000,632.49
+--------------- END RUN ---------------
+
+--------------- RESULTS: PerformanceTests.TaskPerfTests+PerformanceTests ---------------
+--------------- DATA ---------------
+Elapsed Time: Max: 945.00 ms, Average: 945.00 ms, Min: 945.00 ms, StdDev: 0.00 ms
+Elapsed Time: Max / s: 999.37 ms, Average / s: 999.37 ms, Min / s: 999.37 ms, StdDev / s: 0.00 ms
+
+--------------- ASSERTIONS ---------------
+[PASS] Expected Elapsed Time to must be less than or equal to 5,000.00 ms; actual value was 945.00 ms.
+
+------------ FINISHED PerformanceTests.TaskPerfTests+PerformanceTests ----------
